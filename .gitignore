@@ -13,7 +13,8 @@ dist/
 build/
 
 # Data & Models (tracked with DVC)
-data/
+data/**
+!data/**/*.dvc
 *.pt
 *.pth
 *.onnx

@@ -1,0 +1,6 @@
+outs:
+- md5: ca024892f5ece5dd8702375b219082a4.dir
+  size: 598947715
+  nfiles: 13706
+  hash: md5
+  path: processed_top20
